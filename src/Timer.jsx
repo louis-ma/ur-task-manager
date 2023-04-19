@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useRef} from 'react'
-import './styles.css'
+import './TimerStyles.css'
 
 const STATUS = {
   STARTED: 'Started',
