@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 18px;
+    background-color: burlywood;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 10rem 10rem 10rem;
+    grid-gap: 1rem;
+    grid-auto-flow: row;
+  }
+  
